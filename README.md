@@ -1,5 +1,6 @@
 # Warning.
 Code is basically working, but NEEDS a lot of optimization to be declared as 'usable'.
+Feel free to study it, that's the main purpose.
 
 # Introduction
 Auto-filling google form using selenium and python.
