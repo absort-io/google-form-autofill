@@ -1,5 +1,5 @@
 # Warning.
-Code is basically working, but NEEDS a lot of optimization to be declared as 'usable'.
+Code is basically working, but NEEDS a lot of optimization to be declared as 'fully functional'.
 Feel free to study it, that's the main purpose.
 
 # Introduction
